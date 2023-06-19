@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from './Home.js'
 import Language from './Language.js'
 import Question from './Question.js'
@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
           <Route path="/" element={<Home />} ans={answers} setAnswers={setAnswers}/>
           <Route path="/lan" element={<Language id={1} setLanguage={setLanguage} ans={answers} setAnswers={setAnswers}/>} />
@@ -31,7 +31,7 @@ function App() {
           <Route path="/export" element={<Export/>}/>
 
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
     </div>
   );
 }
