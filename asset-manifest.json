@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DL-open-house-enschede-lab/static/css/main.b6ddab98.css",
-    "main.js": "/DL-open-house-enschede-lab/static/js/main.a533c9ab.js",
+    "main.js": "/DL-open-house-enschede-lab/static/js/main.a4e61ccc.js",
     "static/media/end_nl.png": "/DL-open-house-enschede-lab/static/media/end_nl.8f30ee4a5f2927b311f9.png",
     "static/media/end_en.png": "/DL-open-house-enschede-lab/static/media/end_en.bdb55d47c3b63243dd4f.png",
     "static/media/home.png": "/DL-open-house-enschede-lab/static/media/home.437e3b4689e9df4ae4f1.png",
@@ -14,10 +14,10 @@
     "static/media/happy.png": "/DL-open-house-enschede-lab/static/media/happy.35c60ee12cceeecc4a6d.png",
     "index.html": "/DL-open-house-enschede-lab/index.html",
     "main.b6ddab98.css.map": "/DL-open-house-enschede-lab/static/css/main.b6ddab98.css.map",
-    "main.a533c9ab.js.map": "/DL-open-house-enschede-lab/static/js/main.a533c9ab.js.map"
+    "main.a4e61ccc.js.map": "/DL-open-house-enschede-lab/static/js/main.a4e61ccc.js.map"
   },
   "entrypoints": [
     "static/css/main.b6ddab98.css",
-    "static/js/main.a533c9ab.js"
+    "static/js/main.a4e61ccc.js"
   ]
 }
