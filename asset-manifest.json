@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DL-open-house-enschede-lab/static/css/main.b6ddab98.css",
+    "main.js": "/DL-open-house-enschede-lab/static/js/main.a533c9ab.js",
+    "static/media/end_nl.png": "/DL-open-house-enschede-lab/static/media/end_nl.8f30ee4a5f2927b311f9.png",
+    "static/media/end_en.png": "/DL-open-house-enschede-lab/static/media/end_en.bdb55d47c3b63243dd4f.png",
+    "static/media/home.png": "/DL-open-house-enschede-lab/static/media/home.437e3b4689e9df4ae4f1.png",
+    "static/media/bg.png": "/DL-open-house-enschede-lab/static/media/bg.420d33b3c4ed9167a0af.png",
+    "static/media/LinotypeUnivers-420Cn.woff": "/DL-open-house-enschede-lab/static/media/LinotypeUnivers-420Cn.f94a8c9ac56c56423910.woff",
+    "static/media/LinotypeUnivers-620CnBold.woff": "/DL-open-house-enschede-lab/static/media/LinotypeUnivers-620CnBold.2531b27853c8d576f622.woff",
+    "static/media/LinotypeUnivers-420Cn.woff2": "/DL-open-house-enschede-lab/static/media/LinotypeUnivers-420Cn.b7f69f305a569aa42d5e.woff2",
+    "static/media/LinotypeUnivers-620CnBold.woff2": "/DL-open-house-enschede-lab/static/media/LinotypeUnivers-620CnBold.a1c4b3dfe51d7cc94dc6.woff2",
+    "static/media/sad.png": "/DL-open-house-enschede-lab/static/media/sad.d42608eba76b236db6b4.png",
+    "static/media/happy.png": "/DL-open-house-enschede-lab/static/media/happy.35c60ee12cceeecc4a6d.png",
+    "index.html": "/DL-open-house-enschede-lab/index.html",
+    "main.b6ddab98.css.map": "/DL-open-house-enschede-lab/static/css/main.b6ddab98.css.map",
+    "main.a533c9ab.js.map": "/DL-open-house-enschede-lab/static/js/main.a533c9ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6ddab98.css",
+    "static/js/main.a533c9ab.js"
+  ]
+}
